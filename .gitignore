@@ -1,0 +1,13 @@
+# venv
+venv/
+__pycache__/
+*.pyc
+
+# Environment & API Keys
+.env
+
+# Data storage
+data/vectordb/
+
+# Streamlit cache
+.streamlit/
